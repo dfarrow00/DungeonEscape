@@ -13,3 +13,4 @@ Dungeon Escape is a short and simple 3D puzzle game made using Unreal Engine 5. 
 - WSAD to move
 - Space to jump
 - Hold Left Click to grab
+- ESC to quit
